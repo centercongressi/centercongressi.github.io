@@ -64,7 +64,7 @@ table {
     padding: 1em;
     margin: 1em 1em;
     font-family: "JetBrains Mono", monospace;
-    color: rgba (100, 28, 18, 1 );
+    color: #641C12; /* Text color for .chosen */
     text-align: center;
 }
 
@@ -81,7 +81,7 @@ table {
     font-size: 1.5em;
     font-weight: 400;
     font-style: italic;
-	color: rgba(100, 28, 18, 1);
+	color: rgba(100, 28, 18);
 }
 
 .chosen #chosenvalue {
